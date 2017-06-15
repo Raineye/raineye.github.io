@@ -1,0 +1,21 @@
+{
+  "name": "rainey.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XueRainey/XueRainey.github.io.git"
+  },
+  "author": "Rainey",
+  "bugs": {
+    "url": "https://github.com/XueRainey/XueRainey.github.io/issues"
+  },
+  "homepage": "https://github.com/XueRainey/XueRainey.github.io#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
